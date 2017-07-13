@@ -4,7 +4,8 @@
 
 brbeat:
   # Defines how often an event is sent to the output
-  period: 10s
+
+  period: 12s
 
 #================================ General =====================================
 
